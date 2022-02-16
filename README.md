@@ -12,7 +12,7 @@ ___________
 ## Directory structure
 <img src="./Imgs/Structure.png" width="200px"/>
 
-**Fig.2.** Directory structure. There are three folders and six .py files in UDALN-master.
+**Fig.2.** Directory structure. There are three folders and six .py files in UDALN_GRSL-master.
 
 ### checkpoints
 This folder is used to store the training results and a folder named `houston18_5_S1=0.001_20000_10000_S2=0.001_30000_20000_S3=6e-05_15000_5000` is given as a example.
