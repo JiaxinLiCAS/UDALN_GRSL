@@ -10,7 +10,7 @@ ___________
 **Fig.1.** Architecture of the proposed unsupervised degradations adaptive learning network, abbreviated as UDALN, for the task of HSI-MSI fusion.
 
 ## Directory structure
-<img src="./Imgs/structure.png" width="200px"/>
+<img src="./Imgs/tructure.png" width="200px"/>
 
 **Fig.2.** Directory structure. There are three folders and six .py files in UDALN-master.
 
