@@ -4,7 +4,9 @@
 
 Our paper is accpeted by IEEE Geoscience and Remote Sensing Letters (GRSL) and  waiting for page proofs. 
 
-The early access version can be downloaded in my [researchgate](https://www.researchgate.net/publication/358719445_Deep_Unsupervised_Blind_Hyperspectral_and_Multispectral_Data_Fusion)
+The early access version can be downloaded in my [researchgate](https://www.researchgate.net/publication/358719445_Deep_Unsupervised_Blind_Hyperspectral_and_Multispectral_Data_Fusion).
+
+More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN).
 ___________
 
 <img src="./Imgs/Fig1.png" width="666px"/>
