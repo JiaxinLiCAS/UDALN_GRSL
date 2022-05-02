@@ -2,7 +2,7 @@
 
 [Jiaxin Li](https://www.researchgate.net/profile/Li-Jiaxin-20), [Ke Zheng](https://www.researchgate.net/profile/Ke-Zheng-9), [Jing Yao](https://scholar.google.com/citationsuser=1SHd5ygAAAAJ&hl=en), [Lianru Gao](https://scholar.google.com/citations?hl=en&user=f6OnhtcAAAAJ), and [Danfeng Hong](https://sites.google.com/view/danfeng-hong)
 
-Our paper is accpeted by IEEE Geoscience and Remote Sensing Letters (GRSL) and  waiting for page proofs. 
+Our paper is accpeted by IEEE Geoscience and Remote Sensing Letters (GRSL). 
 
 The early access version can be downloaded in my [researchgate](https://www.researchgate.net/publication/358719445_Deep_Unsupervised_Blind_Hyperspectral_and_Multispectral_Data_Fusion).
 
