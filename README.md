@@ -5,7 +5,7 @@
 
 Our paper is accpeted by IEEE Geoscience and Remote Sensing Letters (GRSL). 
 
-The final version can be downloaded in my [researchgate](https://www.researchgate.net/publication/358719445_Deep_Unsupervised_Blind_Hyperspectral_and_Multispectral_Data_Fusion) or 🖼️[**PDF**](./img/UDALN.pdf)
+The final version can be downloaded in my [researchgate](https://www.researchgate.net/publication/358719445_Deep_Unsupervised_Blind_Hyperspectral_and_Multispectral_Data_Fusion) or 🖼️[**PDF**](./Imgs/UDALN.pdf)
 
 More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN).
 ___________
