@@ -1,5 +1,5 @@
 # Deep Unsupervised Blind Hyperspectral and Multispectral Data Fusion
-# $\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
+# $\color{red}{欢迎添加 我的微信(WeChat): BatAug，欢迎交流与合作}$
 
 ## 本人还提出了其余多个开源的高光谱-多光谱超分融合代码，可移步至[GitHub主页下载](https://github.com/JiaxinLiCAS) 
 
