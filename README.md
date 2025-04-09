@@ -74,6 +74,8 @@ Our work is inspired by the following paper
 
 If you encounter any bugs while using this code, please do not hesitate to contact us.
 
-Jiaxin Li (:incoming_envelope: lijiaxin203@mails.ucas.ac.cn)  is currently pursuing the Ph.D. degree in cartography
+$\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
+
+Jiaxin Li (lijiaxin203@mails.ucas.ac.cn)  is currently pursuing the Ph.D. degree in cartography
 and geographic information system with the Key Laboratory of Digital Earth Science, Aerospace
 Information Research Institute, Chinese Academy of Sciences, Beijing, China.
