@@ -1,16 +1,35 @@
-# Deep Unsupervised Blind Hyperspectral and Multispectral Data Fusion
+# UDALN_GRSL
+Deep Unsupervised Blind Hyperspectral and Multispectral Data Fusion, GRSL. (PyTorch)
+
+ [Jiaxin Li 李嘉鑫](https://www.researchgate.net/profile/Li-Jiaxin-20), [Ke Zheng 郑珂](https://www.researchgate.net/profile/Ke-Zheng-9), [Jing Yao 姚靖](https://scholar.google.com/citationsuser=1SHd5ygAAAAJ&hl=en), [Lianru Gao 高连如](https://scholar.google.com/citations?hl=en&user=f6OnhtcAAAAJ), and [Danfeng Hong 洪丹枫](https://sites.google.com/view/danfeng-hong), IEEE Geoscience and Remote Sensing Letter (GRSL). 
+
+文章可在这里下载🖼️[**PDF**](./Imgs/UDALN.pdf)，The final version can be downloaded in  🖼️[**PDF**](./Imgs/UDALN.pdf) 
+
+
 # $\color{red}{欢迎添加 我的微信(WeChat): BatAug，欢迎交流与合作}$
 
 ## 本人还提出了其余多个开源的高光谱-多光谱超分融合代码，可移步至[GitHub主页下载](https://github.com/JiaxinLiCAS) 
 
-[Jiaxin Li](https://www.researchgate.net/profile/Li-Jiaxin-20), [Ke Zheng](https://www.researchgate.net/profile/Ke-Zheng-9), [Jing Yao](https://scholar.google.com/citationsuser=1SHd5ygAAAAJ&hl=en), [Lianru Gao](https://scholar.google.com/citations?hl=en&user=f6OnhtcAAAAJ), and [Danfeng Hong](https://sites.google.com/view/danfeng-hong)
 
-Our paper is accpeted by IEEE Geoscience and Remote Sensing Letters (GRSL). 
+### 我是李嘉鑫，25年毕业于中科院空天信息创新研究院的直博生，导师高连如研究员 ###
 
-The final version can be downloaded in my [researchgate](https://www.researchgate.net/publication/358719445_Deep_Unsupervised_Blind_Hyperspectral_and_Multispectral_Data_Fusion) or 🖼️[**PDF**](./Imgs/UDALN.pdf)
+2020.09-2025.07 就读于中国科学院 空天信息创新研究院 五年制直博生 $\color{red}{导师：高连如研究员}$ 【[导师空天院官网](https://people.ucas.ac.cn/~gaolianru)，[谷歌学术主页](https://scholar.google.com/citations?user=La-8gLMAAAAJ&hl=zh-CN)】
 
-More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN).
-___________
+2016.09-2020.7 就读于重庆大学 土木工程学院 测绘工程专业
+
+From 2020.09 to 2025.07, I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
+My supervisor is [Lianru Gao](https://scholar.google.com/citations?user=La-8gLMAAAAJ&hl=zh-CN)
+
+From 2016.0 to 2020.7, I studied in the school of civil engineering at Chongqing University, Chongqing, China, for a Bachelor of Engineering.
+
+这是我的[谷歌学术](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)和[ResearchGate](https://www.researchgate.net/profile/Jiaxin-Li-lijiaxin?ev=hdr_xprf)，More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN) and my [ResearchGate](https://www.researchgate.net/profile/Jiaxin-Li-lijiaxin?ev=hdr_xprf)
+
+
+# 代码解析 👇 有助你读懂代码 便于复现
+
+🖼️**遇到任何问题，包括但不限于代码调试、数据仿真、运行结果等，随时添加**
+$\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
+
 
 <img src="./Imgs/Fig1.png" width="666px"/>
 
@@ -74,6 +93,7 @@ Our work is inspired by the following paper
 
 If you encounter any bugs while using this code, please do not hesitate to contact us.
 
+🖼️**遇到任何问题，包括但不限于代码调试、数据仿真、运行结果等，随时添加**
 $\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
 
 Jiaxin Li (lijiaxin203@mails.ucas.ac.cn)  is currently pursuing the Ph.D. degree in cartography
