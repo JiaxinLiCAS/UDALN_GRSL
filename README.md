@@ -105,6 +105,3 @@ If you encounter any bugs while using this code, please do not hesitate to conta
 🖼️**遇到任何问题，包括但不限于代码调试、数据仿真、运行结果等，随时添加**
 $\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
 
-Jiaxin Li (lijiaxin203@mails.ucas.ac.cn)  is currently pursuing the Ph.D. degree in cartography
-and geographic information system with the Key Laboratory of Digital Earth Science, Aerospace
-Information Research Institute, Chinese Academy of Sciences, Beijing, China.
