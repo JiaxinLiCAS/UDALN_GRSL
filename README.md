@@ -1,6 +1,6 @@
 # UDALN_GRSL
 Deep Unsupervised Blind Hyperspectral and Multispectral Data Fusion, GRSL. (PyTorch)
-<!--  
+
  [Jiaxin Li 李嘉鑫](https://www.researchgate.net/profile/Li-Jiaxin-20), [Ke Zheng 郑珂](https://www.researchgate.net/profile/Ke-Zheng-9), [Jing Yao 姚靖](https://scholar.google.com/citationsuser=1SHd5ygAAAAJ&hl=en), [Lianru Gao 高连如](https://scholar.google.com/citations?hl=en&user=f6OnhtcAAAAJ), and [Danfeng Hong 洪丹枫](https://sites.google.com/view/danfeng-hong), IEEE Geoscience and Remote Sensing Letter (GRSL). 
 
 文章可在这里下载🖼️[**PDF**](./Imgs/UDALN.pdf)，The final version can be downloaded in  🖼️[**PDF**](./Imgs/UDALN.pdf) 
@@ -32,7 +32,7 @@ My supervisor is [Lianru Gao](https://scholar.google.com/citations?user=La-8gLMA
 From 2016.0 to 2020.7, I studied in the school of civil engineering at Chongqing University, Chongqing, China, for a Bachelor of Engineering.
 
 这是我的[谷歌学术](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)和[ResearchGate](https://www.researchgate.net/profile/Jiaxin-Li-lijiaxin?ev=hdr_xprf)，More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN) and my [ResearchGate](https://www.researchgate.net/profile/Jiaxin-Li-lijiaxin?ev=hdr_xprf)
--->
+
 
 # 代码解析 👇 有助你读懂代码 便于复现
 
